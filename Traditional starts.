@@ -1,0 +1,5 @@
+#include<stdio.h>
+int main()
+{
+  printf("This server is started from today");
+}
